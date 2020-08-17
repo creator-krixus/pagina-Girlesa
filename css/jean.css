@@ -1,0 +1,48 @@
+button{
+    margin-top: 30px;
+    float: left;
+    height: 50px;
+    border-radius: 15px;
+    background:rgb(227,12,51);
+}
+img {
+    margin-right: 30px;
+    margin-left: 30px;
+    float: left;
+    border-radius: 15px;
+    position: center;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;  
+}
+p {
+    font-family:sans-serif;
+    font-style: italic;
+    font-size: 30px;
+}
+body{
+    background-image:url(/IMAGENES/madera2.jpg);
+}
+aside{
+    float: left; 
+}    
+article{
+    float: left;
+    margin-left: 70px;
+}
+.p1{
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+}
+.p3{
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+}
+div{
+ padding-left: 5%;
+}
+
+

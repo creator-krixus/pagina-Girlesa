@@ -1,0 +1,36 @@
+button {
+    float: left;
+    height: 50px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background: #E6E30E ;
+}
+img {
+    float: left;
+    margin-right: 35px;
+    margin-left: 35px;
+    border-radius: 10px;
+}
+body{
+    background-image:url(/IMAGENES/madera2.jpg);
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+iframe{
+    border-radius: 10px;
+    align-content: center;
+}
+.uno {
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 30px;
+}
+p{
+    margin: auto;
+    margin-top: initial;
+    
+}
