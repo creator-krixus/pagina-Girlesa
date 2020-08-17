@@ -78,10 +78,11 @@ input[type="submit"]{
         
     }
     img{
-        margin-left: 1cm;
+        margin-left: 0.7cm;
+        margin-top: 0.2cm;
         border-radius: 10px;
-        width: 100px;
-        height: 50;
+        width: 80vw;
+        height: 40vm;
     }
     header nav ul li a{
         padding: 15px;
@@ -90,6 +91,9 @@ input[type="submit"]{
         color: black;/*color de la letra de la lista*/
         text-decoration: none;
         font-size: 14px;
+    }
+    body{
+        background-image: url(/IMAGENES/madera2.jpg);
     }
    
 }
