@@ -58,7 +58,7 @@ form input {
     border-radius: 5px;
     box-shadow:black;    
 }
-.form{
+div .form{
     position: relative;
     padding-left: 20px;
     padding-top: 15px;
@@ -71,6 +71,7 @@ form input {
 input[type="submit"]{
     margin: 0 30%;
 }
+/*-@media querys para pantallas pequeñas-*/
 
 @media screen and (min-width:320px) and (max-width:760px){
     header nav{
@@ -95,5 +96,6 @@ input[type="submit"]{
     body{
         background-image: url(/IMAGENES/madera2.jpg);
     }
+   
    
 }
