@@ -96,6 +96,9 @@ input[type="submit"]{
     body{
         background-image: url(/IMAGENES/madera2.jpg);
     }
-   
+    .form{
+        position: relative;
+        margin-left: 1.4cm;
+    }
    
 }
