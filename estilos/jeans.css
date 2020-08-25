@@ -1,5 +1,5 @@
 li {
-    margin: 100px;
+    margin: 10px 80px;
     box-sizing: border-box;
     background: white;
     border-radius: 10px;
@@ -20,11 +20,10 @@ body {
 
 .c1 {
     height: 660px;
-    width: 100%;
-    
+    margin: 20px;
 }
 img{
-    height: 500px;
+    height: 600px;
     width: 100%;
     border-radius: 30%;
 }
@@ -36,10 +35,7 @@ h2 {
 .text {
     margin: 20px;
 }
-.main {
-    margin-top: 25px;
-    display: flex;
-}
+
 p{
     text-align: center;
 }
