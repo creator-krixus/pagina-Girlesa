@@ -1,0 +1,14 @@
+
+.form{
+    position: relative;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 200px;
+    background-image: linear-gradient(to top, #b3ffab 0%, #12fff7 100%);
+    border-radius: 20px;
+    margin:250px;
+}
+body{
+    background-image: url("../IMAGENES/madera2.jpg");
+}
